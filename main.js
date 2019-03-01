@@ -46,7 +46,7 @@ const campaign = {
         availability: [],
         tasks: []
     },
-    biography: [],
+    biography: [], // keeping as an array 
     image_gallery = {
         head_shot: [],
         family: [],
